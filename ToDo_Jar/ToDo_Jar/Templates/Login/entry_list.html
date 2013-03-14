@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+{{ profiles.groups }}
+
+<h1>ToDo Jar Entries</h1>
+{% if entries|length > 0 %}
+<ul id="entries">
+  {% for entry in entries %}
+  <li>
+    <div class="entry">
+      <h4>{{ entry.title }}</h4>
+      <div class="entry-body">
+      <ul>
+        <li>{{ entry.location }}</li>
+        <li>{{ entry.description }}</li>
+        <li><a href="{{ entry.links }}">link</a></li>
+        <li>{{ entry.level }}</li>
+        <li>{{ entry.private }}</li>
+        <li> {{ entry.author }} </li>
+        {{ entry.split_groups|unordered_list }}
+      </ul>
+      </div>
+  </li>
+  {% endfor %}
+</ul>
+<div class ="entry-author">
+  <p>Click 
+    <a href="{% url add_entry %}">here</a>
+      to add another entry.</p> 
+</div>
+{% else %}
+<p>No entries created yet.  Get to work!</p>
+{% endif %}
+{% endblock %}

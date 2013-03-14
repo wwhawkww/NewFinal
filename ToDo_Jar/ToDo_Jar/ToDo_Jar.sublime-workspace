@@ -1,0 +1,342 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"user"
+			],
+			[
+				"User",
+				"User"
+			],
+			[
+				"Country",
+				"Country"
+			],
+			[
+				"de",
+				"default"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "urls.py",
+			"settings":
+			{
+				"buffer_size": 1194,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/wwhawkww/Documents/Programming/UW_Python_Classes/Class2-Internet_Programming_in_Python/ToDo_Jar/ToDo_Jar/Login/forms.py",
+			"settings":
+			{
+				"buffer_size": 1847,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/wwhawkww/Documents/Programming/UW_Python_Classes/Class2-Internet_Programming_in_Python/ToDo_Jar/lib/python2.7/site-packages/registration/models.py",
+			"settings":
+			{
+				"buffer_size": 10408,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Templates/registration/profile.html",
+			"settings":
+			{
+				"buffer_size": 366,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Templates/registration/registration_complete.html",
+			"settings":
+			{
+				"buffer_size": 373,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/wwhawkww/Documents/Programming/UW_Python_Classes/Class2-Internet_Programming_in_Python/ToDo_Jar/ToDo_Jar/Login/urls.py",
+		"/Users/wwhawkww/Documents/Programming/UW_Python_Classes/Class2-Internet_Programming_in_Python/ToDo_Jar/ToDo_Jar/ToDo_Jar/Templates/registration/profile.html",
+		"/Users/wwhawkww/Documents/Programming/UW_Python_Classes/Class2-Internet_Programming_in_Python/ToDo_Jar/ToDo_Jar/Login/models.py",
+		"/Users/wwhawkww/Documents/Programming/UW_Python_Classes/Class2-Internet_Programming_in_Python/ToDo_Jar/ToDo_Jar/Login/views.py",
+		"/Users/wwhawkww/Documents/Programming/UW_Python_Classes/Class2-Internet_Programming_in_Python/ToDo_Jar/ToDo_Jar/ToDo_Jar/Templates/base.html",
+		"/Users/wwhawkww/Documents/Programming/UW_Python_Classes/Class2-Internet_Programming_in_Python/ToDo_Jar/ToDo_Jar/Login/admin.py",
+		"/Users/wwhawkww/Documents/Programming/UW_Python_Classes/Class2-Internet_Programming_in_Python/ToDo_Jar/ToDo_Jar/ToDo_Jar/settings.py",
+		"/Users/wwhawkww/Documents/Programming/UW_Python_Classes/Class2-Internet_Programming_in_Python/ToDo_Jar/ToDo_Jar/Login/forms.py",
+		"/Users/wwhawkww/Documents/Programming/UW_Python_Classes/Class2-Internet_Programming_in_Python/ToDo_Jar/ToDo_Jar/ToDo_Jar/Templates/Login/login.html",
+		"/Users/wwhawkww/Documents/Programming/UW_Python_Classes/Class2-Internet_Programming_in_Python/ToDo_Jar/ToDo_Jar/ToDo_Jar/Templates/Login/entry_list.html",
+		"/Users/wwhawkww/Documents/Programming/UW_Python_Classes/Class2-Internet_Programming_in_Python/ToDo_Jar/django_microblog/djangor/urls.py",
+		"/Users/wwhawkww/Documents/Programming/UW_Python_Classes/Class2-Internet_Programming_in_Python/ToDo_Jar/django_microblog/django_microblog/settings.py",
+		"/Users/wwhawkww/Documents/Programming/UW_Python_Classes/Class2-Internet_Programming_in_Python/ToDo_Jar/django_microblog/djangor/models.py",
+		"/Users/wwhawkww/Documents/Programming/UW_Python_Classes/Class2-Internet_Programming_in_Python/ToDo_Jar/django_microblog/djangor/forms.py",
+		"/Users/wwhawkww/Documents/Programming/UW_Python_Classes/Class2-Internet_Programming_in_Python/ToDo_Jar/ToDo_Jar/ToDo_Jar/Templates/Login/entry_form.html",
+		"/Users/wwhawkww/Documents/Programming/UW_Python_Classes/Class2-Internet_Programming_in_Python/ToDo_Jar/django_microblog/djangor/templates/djangor/entry_form.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Entry",
+			"Login_entry",
+			"type",
+			"Login_entry"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "urls.py",
+					"settings":
+					{
+						"buffer_size": 1194,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1140,
+								1140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/wwhawkww/Documents/Programming/UW_Python_Classes/Class2-Internet_Programming_in_Python/ToDo_Jar/ToDo_Jar/Login/forms.py",
+					"settings":
+					{
+						"buffer_size": 1847,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1513,
+								1513
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 145.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/wwhawkww/Documents/Programming/UW_Python_Classes/Class2-Internet_Programming_in_Python/ToDo_Jar/lib/python2.7/site-packages/registration/models.py",
+					"settings":
+					{
+						"buffer_size": 10408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2178,
+								2186
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 641.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Templates/registration/profile.html",
+					"settings":
+					{
+						"buffer_size": 366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								265
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Templates/registration/registration_complete.html",
+					"settings":
+					{
+						"buffer_size": 373,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								264,
+								264
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true
+}

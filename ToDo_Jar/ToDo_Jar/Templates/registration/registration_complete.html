@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Registration Complete</h1>
+<p>Congratulations! You have successfully created a user
+	with these credentials: </p>
+<ul>
+	<li>Username: {{ user.username }}</li>
+	<li>Email: {{ user.email }}</li>
+	<li>Gender: {{ user.gender }}</li>
+	
+</ul>
+<p>Click 
+<a href="{% url add_entry %}">here</a>
+to add an entry.</p>
+{% endblock %}

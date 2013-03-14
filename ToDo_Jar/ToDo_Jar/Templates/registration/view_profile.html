@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Complete</h1>
+<p>Congratulations! You have successfully created a profile with these credentials: </p>
+<ul>
+
+{% for profile in profiles %}
+	{% if profile.username = user %}
+		<li>Username: {{ profile.username }}</li>
+		<li>Firstname: {{ profile.first_name }}</li>
+		<li>Groups: {{ profile.groups }}</li>
+		<li>Location: {{ profile.location }}</li>
+		<br>
+	{% endif %}
+{% endfor %}
+</ul>
+<p>Click 
+<a href="{% url add_entry %}">here</a>
+to add an entry.</p>
+{% endblock %}

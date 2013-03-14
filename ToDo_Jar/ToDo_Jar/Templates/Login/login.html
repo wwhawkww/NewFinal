@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>ToDo Jar Login</h1>
+
+{% if no_login == True %}
+<div>
+	<h>You must be logged in to submit a ToDo.</h> 
+	<small><p>Please login below or <a href="/register/">register</a>.</p></small>
+</div>
+{% endif %}
+
+
+<form action="" method="POST">{% csrf_token %}
+  {{ form.as_p }}
+  <p><input type="submit" value="Log In"></p>
+</form>
+{% endblock %}
